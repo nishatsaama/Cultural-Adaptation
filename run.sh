@@ -2,9 +2,9 @@
 
 # Run cultural adaptation on GSM8K dataset for low-size models
 
-NUM_ROWS=10
+NUM_ROWS=100
 TEMP=0.7
-OUTPUT_DIR="low_size"
+OUTPUT_DIR="low_size_models_output"
 
 echo "Starting adaptation for low-size models..."
 echo "Rows per model: $NUM_ROWS"

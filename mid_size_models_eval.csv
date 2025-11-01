@@ -1,0 +1,5 @@
+model,total_generations,valid_generations,success_rate,refusal_count,contamination_count,avg_math_structure,avg_cultural_adaptation,avg_semantic_quality,avg_composite_score
+mistral-7b,100,91.0,91.0,0,0,84.95,63.06,88.84,77.36
+gemma-2-9b,100,100.0,100.0,0,0,94.49,54.4,90.56,77.28
+llama-3.1-8b,100,100.0,100.0,0,0,95.01,53.75,89.79,76.94
+qwen-2.5-7b,100,98.0,98.0,0,0,97.04,41.74,93.94,73.99

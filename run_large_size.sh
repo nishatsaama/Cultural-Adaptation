@@ -2,7 +2,7 @@
 
 # Run cultural adaptation on GSM8K dataset for large-size models
 
-NUM_ROWS=10
+NUM_ROWS=100
 TEMP=0.7
 OUTPUT_DIR="large_size_models_output"
 

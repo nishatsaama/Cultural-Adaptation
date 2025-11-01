@@ -1,0 +1,5 @@
+model,total_generations,valid_generations,success_rate,refusal_count,contamination_count,avg_math_structure,avg_cultural_adaptation,avg_semantic_quality,avg_composite_score
+phi-3-mid-14b,100,100.0,100.0,0,0,95.5,54.42,91.53,77.88
+qwen-2.5-14b,100,100.0,100.0,0,0,96.06,50.61,93.13,77.0
+qwen-2.5-32b,100,100.0,100.0,0,0,97.04,48.07,91.94,75.92
+sarvam-m-24b,100,52.0,52.0,2,2,35.78,57.71,42.04,46.43

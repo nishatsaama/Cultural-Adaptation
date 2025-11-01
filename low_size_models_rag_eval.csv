@@ -1,0 +1,8 @@
+model,total_generations,valid_generations,success_rate,refusal_count,contamination_count,avg_math_structure,avg_cultural_adaptation,avg_semantic_quality,avg_composite_score
+llama-3.2-3b,100,100.0,100.0,0,0,84.16,83.24,84.62,83.93
+qwen-2.5-3b,100,99.0,99.0,0,0,91.67,65.98,91.59,81.37
+gemma-2-2b,100,100.0,100.0,0,0,87.8,68.44,89.56,80.59
+phi-3.5-mini,100,47.0,47.0,0,18,69.53,83.49,74.66,76.66
+llama-3.2-1b,100,92.0,92.0,0,0,73.92,68.66,85.52,75.3
+qwen-2.5-1.5b,100,100.0,100.0,0,0,80.84,62.47,86.8,75.28
+param,100,58.0,58.0,0,26,55.03,50.74,73.94,58.99
